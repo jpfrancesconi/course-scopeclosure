@@ -1,0 +1,20 @@
+{
+  "name": "course-scopeclosure",
+  "version": "1.0.0",
+  "description": "Javascrip skills improvements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpfrancesconi/course-scopeclosure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpfrancesconi/course-scopeclosure/issues"
+  },
+  "homepage": "https://github.com/jpfrancesconi/course-scopeclosure#readme"
+}
